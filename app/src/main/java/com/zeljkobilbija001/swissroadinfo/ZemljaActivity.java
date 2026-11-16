@@ -125,11 +125,13 @@ public class ZemljaActivity extends AppCompatActivity {
 
         findViewById(R.id.dugmePodeli).setOnClickListener(v -> MainActivity.podeliAplikaciju(this));
 
-        // Saglasnost je već prikupljena na početnom ekranu; ovde samo baner i dugme Privatnost
+        // Saglasnost se prikuplja na početnom ekranu; u aplikaciji za jednu zemlju ovo je početni ekran,
+        // pa se prikuplja ovde (GDPR prozor kad treba, posle toga baner i dugme Privatnost)
         dugmePrivatnosti = findViewById(R.id.dugmePrivatnosti);
         dugmePrivatnosti.setOnClickListener(v ->
                 Reklame.prikaziPodesavanjaPrivatnosti(this, this::posleSaglasnosti));
-        posleSaglasnosti();
+        if (Autoputevi.ZEMLJE.length == 1) Reklame.prikupiSaglasnost(this, this::posleSaglasnosti);
+        else posleSaglasnosti();
     }
 
     private void posleSaglasnosti() {
