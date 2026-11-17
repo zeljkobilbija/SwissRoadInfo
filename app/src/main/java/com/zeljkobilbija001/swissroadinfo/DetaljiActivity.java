@@ -92,7 +92,7 @@ public class DetaljiActivity extends AppCompatActivity {
         LinearLayout k = kartica(R.string.det_lokacija, R.color.plava_tekst);
         red(k, getString(R.string.det_autoput), autoput.oznaka() + " · " + autoput.ruta);
         red(k, getString(R.string.det_deonica), d.naziv());
-        red(k, getString(R.string.det_kilometar), String.format(Locale.getDefault(), "%.1f", s.km));
+        red(k, getString(R.string.det_kilometar), String.format(Locale.getDefault(), "%.1f", s.kmPrikaz()));
         if (s.jeIzlaz() && !s.ref.isEmpty()) {
             red(k, getString(s.tip == Stavka.CVORISTE ? R.string.det_ka : R.string.det_broj_izlaza), s.ref);
         }
@@ -112,7 +112,7 @@ public class DetaljiActivity extends AppCompatActivity {
             }
             if (!bezLoga.isEmpty()) cipovi(g, bezLoga, R.color.cip_gorivo, R.color.cip_gorivo_tekst);
             if (!"CH".equals(autoput.zemlja) && !"RS".equals(autoput.zemlja) && !"GB".equals(autoput.zemlja)
-                && !"NO".equals(autoput.zemlja)) cene(g); // Švajcarska, Srbija, Britanija i Norveška: nema otvorenog izvora cena
+                && !"NO".equals(autoput.zemlja) && !"TR".equals(autoput.zemlja)) cene(g); // CH, RS, GB, NO, TR: nema otvorenog izvora: nema otvorenog izvora cena
         }
 
         // Hrana
@@ -356,7 +356,7 @@ public class DetaljiActivity extends AppCompatActivity {
         t.append(StavkaAdapter.opis(this, s)).append('\n');
         t.append(autoput.oznaka()).append(" · ").append(d.naziv()).append(" · ")
                 .append(getString(R.string.km)).append(' ')
-                .append(String.format(Locale.getDefault(), "%.1f", s.km)).append('\n');
+                .append(String.format(Locale.getDefault(), "%.1f", s.kmPrikaz())).append('\n');
         if (!s.jeIzlaz()) {
             t.append(getString(R.string.smer_voznje)).append(": ")
                     .append(s.strana == '+' ? d.minus + " → " + d.plus : d.plus + " → " + d.minus).append('\n');
