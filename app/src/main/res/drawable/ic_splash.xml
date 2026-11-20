@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Splash: ikona aplikacije (zastava i put ka horizontu); Android 12+ je iseca u krug -->
+<!-- Švajcarski znak „Autobahn“: zeleni pravougaonik sa belim okvirom,
+     u sredini beli put sa nadvožnjakom. Sve unutar kruga prečnika 72 (maska splash ekrana). -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="288dp"
     android:height="288dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path android:fillColor="#DA291C" android:pathData="M0.00,0.00L108.00,0.00L108.00,56.00L0.00,56.00Z" />
-    <path android:fillColor="#FFFFFF" android:pathData="M49.00,22.00L59.00,22.00L59.00,50.00L49.00,50.00Z" />
-    <path android:fillColor="#FFFFFF" android:pathData="M40.00,31.00L68.00,31.00L68.00,41.00L40.00,41.00Z" />
-    <path android:fillColor="#2E3440" android:pathData="M0.00,56.00L108.00,56.00L108.00,108.00L0.00,108.00Z" />
-    <path android:fillColor="#FFFFFF" android:fillType="evenOdd" android:pathData="M10.00,108.00L48.50,56.00L59.50,56.00L98.00,108.00ZM53.27,58.60L54.73,58.60L55.04,64.84L52.96,64.84ZM52.62,71.60L55.38,71.60L55.69,77.84L52.31,77.84ZM51.97,84.60L56.03,84.60L56.34,90.84L51.66,90.84ZM51.32,97.60L56.68,97.60L56.99,103.84L51.01,103.84Z" />
+    <!-- tabla -->
+    <path android:fillColor="#00703C"
+        android:pathData="M33,28h42a5,5 0 0 1 5,5v42a5,5 0 0 1 -5,5h-42a5,5 0 0 1 -5,-5v-42a5,5 0 0 1 5,-5z" />
+    <!-- beli okvir -->
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="2"
+        android:pathData="M34,31.5h40a2.5,2.5 0 0 1 2.5,2.5v40a2.5,2.5 0 0 1 -2.5,2.5h-40a2.5,2.5 0 0 1 -2.5,-2.5v-40a2.5,2.5 0 0 1 2.5,-2.5z" />
+    <!-- put sa nadvožnjakom -->
+    <group android:pivotX="54" android:pivotY="59" android:scaleX="0.6" android:scaleY="0.6"
+        android:translateY="-5">
+        <path android:fillColor="#FFFFFF" android:pathData="M27,34h54v7h-54z" />
+        <path android:fillColor="#FFFFFF" android:pathData="M31,41h5v10h-5z M72,41h5v10h-5z" />
+        <path android:fillColor="#FFFFFF" android:pathData="M30,84 L48,84 L51.5,50 L46.5,50 Z" />
+        <path android:fillColor="#FFFFFF" android:pathData="M60,84 L78,84 L61.5,50 L56.5,50 Z" />
+    </group>
 </vector>
