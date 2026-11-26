@@ -12,12 +12,18 @@ SIROVO = os.path.join(KOREN, 'sirovo')
 # (fajl, donja ivica isečka: liste imaju reklamu na dnu, detalji nemaju)
 SNIMCI = [(1, 2000), (2, 2000), (3, 2000), (4, 2200), (5, 2000)]   # sirovo/<jezik><n>.png (aplikacija na tom jeziku)
 NASLOVI = {
-    'de': ['Alle Autobahnen Österreichs, auch offline', 'Ausfahrten und Raststationen nach Kilometer',
-           'Verkehrsmeldungen von ASFINAG', 'Tankstellen, Ausstattung und Durchschnittspreise',
-           'Filter: Tanken, Essen, Parken'],
-    'en': ['Every Austrian motorway, even offline', 'Exits and service areas by kilometre',
-           'Traffic news from ASFINAG', 'Fuel brands, facilities and average prices',
+    'en': ['Every Swiss motorway, even offline', 'Exits and service areas by kilometre',
+           'Traffic news from FEDRO (ASTRA)', 'Fuel brands, food and facilities',
            'Filter: fuel, food, parking'],
+    'de': ['Alle Schweizer Autobahnen, auch offline', 'Ausfahrten und Raststätten nach Kilometer',
+           'Verkehrsmeldungen vom ASTRA', 'Tankstellen, Essen und Ausstattung',
+           'Filter: Tanken, Essen, Parken'],
+    'it': ['Tutte le autostrade svizzere, anche offline', 'Uscite e aree di servizio per chilometro',
+           "Notizie sul traffico dall'USTRA", 'Distributori, ristoro e servizi',
+           'Filtri: carburante, cibo, parcheggi'],
+    'fr': ['Toutes les autoroutes suisses, même hors ligne', 'Sorties et aires de service par kilomètre',
+           "Infos trafic de l'OFROU", 'Stations, restauration et services',
+           'Filtres : carburant, repas, parkings'],
 }
 W, H = 1080, 1920
 font = ImageFont.truetype(r'C:\Windows\Fonts\segoeuib.ttf', 64)
