@@ -1,0 +1,46 @@
+NASLOV:
+Swiss Road Info: Autobahnen
+
+KRATAK OPIS:
+Ausfahrten, Raststätten, Rastplätze und Verkehr auf Schweizer Autobahnen.
+
+PUN OPIS:
+⚠️ Inoffizielle App: Swiss Road Info ist eine unabhängige App. Sie wird von keiner Behörde, keinem Strassenbetreiber und keiner staatlichen Stelle herausgegeben und vertritt keine staatliche Stelle.
+
+Unterwegs in der Schweiz und auf der Suche nach Treibstoff, Kaffee, WC oder einem Rastplatz? Swiss Road Info zeigt, was auf jeder Schweizer Autobahn vor Ihnen liegt – Ausfahrt für Ausfahrt, nach Kilometer sortiert, in Ihrer Fahrtrichtung.
+
+Autobahn und Richtung wählen, und Sie sehen:
+• alle Ausfahrten und Verzweigungen mit Kilometer
+• Raststätten und Rastplätze auf Ihrer Fahrbahnseite
+• Tankstellen mit Markenlogo, Restaurants und Ausstattung (WC, Duschen, Shop, Hotel)
+• Ladestationen für E-Autos und Lkw-Parkplätze
+• Telefonnummer und Website, sofern vorhanden
+
+FAHRMODUS
+Im Fahrmodus erkennt die App Ihre Autobahn, den Kilometer und die Fahrtrichtung und zeigt die nächsten Ausfahrten, Raststätten und Tankstellen vor Ihnen. Sprachansagen nennen Autobahn, nächste Raststätte und Verkehr voraus. Beim Wechsel der Autobahn folgt die Liste automatisch. Beenden mit einem Tippen oder durch Schliessen der App.
+
+VERKEHRSMELDUNGEN
+Unfälle, Staus, Sperrungen und Baustellen des Bundesamts für Strassen (ASTRA), mit Fahrtrichtung. Eine Verkehrsleiste neben der Liste zeigt, wo die Meldungen liegen. Mit Benachrichtigungen werden Sie für die gewählte oder befahrene Autobahn informiert.
+
+ABDECKUNG
+17 Autobahnen: A1 Genf – Lausanne – Bern – Zürich – St. Gallen, A2 Basel – Luzern – Gotthard – Chiasso, A3, A4, A5, A6, A7, A8, A9, A12, A13, A14, A15, A16, A18, A20, A22 und A51.
+
+FUNKTIONIERT OFFLINE
+Alle Autobahndaten sind in der App gespeichert – die Liste funktioniert auch ohne Empfang. Nur die Verkehrsmeldungen brauchen eine Verbindung.
+
+FÜR AUTOFAHRER GEMACHT
+• ein Tippen startet die Navigation zum Ort
+• Raststätten und Ausfahrten teilen
+• Filter: Tanken, Essen, Parken, Ausfahrten, Laden
+• kein Konto, keine Anmeldung; Ihr Standort bleibt auf dem Telefon
+• einmaliger Kauf zum Entfernen der Werbung
+• 18 Sprachen
+
+DATENQUELLEN
+Autobahndaten © OpenStreetMap-Mitwirkende (ODbL). Verkehrsmeldungen – Datenquelle: Bundesamt für Strassen (ASTRA), Verkehrsdatenplattform (VDP) / Federal Roads Office (FEDRO) Traffic Data Platform (TDP).
+
+OFFIZIELLE QUELLEN (Links)
+• Verkehr: Bundesamt für Strassen (ASTRA) – https://www.astra.admin.ch – Datenplattform: https://opentransportdata.swiss
+• Autobahndaten: OpenStreetMap – https://www.openstreetmap.org/copyright
+
+Unabhängige App, nicht verbunden mit dem ASTRA oder einer anderen Behörde. Die Autobahnvignette ist nicht enthalten. Beachten Sie stets Signalisation und Verkehrsregeln; bedienen Sie das Telefon nicht während der Fahrt.

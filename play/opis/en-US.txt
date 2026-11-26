@@ -1,0 +1,46 @@
+NASLOV:
+Swiss Road Info: Motorways
+
+KRATAK OPIS:
+Exits, service areas, rest areas and traffic news on every Swiss motorway.
+
+PUN OPIS:
+⚠️ Unofficial app: Swiss Road Info is an independent app. It is not published by any government, road authority or motorway operator, and does not represent any government entity.
+
+On the road in Switzerland and need fuel, a coffee, a restroom or a place to rest? Swiss Road Info shows what's ahead on every Swiss motorway – exit by exit, sorted by kilometre, in your direction of travel.
+
+Pick a motorway and your direction, and you get:
+• every exit and interchange with its kilometre
+• service areas (Raststätten / aires) and rest areas on your side of the road
+• fuel stations with brand logos, restaurants and facilities (WC, showers, shop, hotel)
+• EV chargers and truck parking spaces
+• phone number and website where available
+
+DRIVING MODE
+Start Driving mode and the app finds the motorway you are on, the kilometre and your direction, and shows the next exits, service areas and fuel stations ahead. Voice announcements tell you the motorway, the next service area and traffic ahead. When you change motorway, the list follows you. Stop it with one tap or by closing the app.
+
+TRAFFIC NEWS
+Accidents, queues, closures and roadworks from the Swiss Federal Roads Office (FEDRO/ASTRA), with direction. A traffic status line next to the list shows where the incidents are. With notifications on, you get alerts for the motorway you selected or the one you are driving on.
+
+COVERAGE
+17 motorways: A1 Geneva – Lausanne – Bern – Zurich – St. Gallen, A2 Basel – Lucerne – Gotthard – Chiasso, A3, A4, A5, A6, A7, A8, A9, A12, A13, A14, A15, A16, A18, A20, A22 and A51.
+
+WORKS OFFLINE
+All motorway data is built into the app, so the list works without signal. Only traffic news needs a connection.
+
+MADE FOR DRIVERS
+• one tap opens navigation to the place
+• share any service area or exit
+• filters: fuel, food, parking, exits, EV charging
+• no account, no sign-up; your location stays on your phone
+• one-time purchase to remove ads
+• 18 languages
+
+DATA SOURCES
+Motorway data © OpenStreetMap contributors (ODbL). Traffic news – Data source: Federal Roads Office (FEDRO) Traffic Data Platform (TDP).
+
+OFFICIAL SOURCES (links)
+• Traffic: Federal Roads Office (FEDRO/ASTRA) – https://www.astra.admin.ch – data platform: https://opentransportdata.swiss
+• Motorway data: OpenStreetMap – https://www.openstreetmap.org/copyright
+
+Independent app, not affiliated with FEDRO/ASTRA or any government agency. The Swiss motorway vignette is not included. Always follow road signs and traffic rules; do not use your phone while driving.

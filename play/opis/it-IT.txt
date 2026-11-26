@@ -1,0 +1,46 @@
+NASLOV:
+Swiss Road Info: autostrade
+
+KRATAK OPIS:
+Uscite, aree di servizio, aree di sosta e traffico sulle autostrade svizzere.
+
+PUN OPIS:
+⚠️ App non ufficiale: Swiss Road Info è un'app indipendente. Non è pubblicata da alcuna autorità, gestore stradale o ente pubblico e non rappresenta alcun ente pubblico.
+
+In viaggio in Svizzera e ti serve carburante, un caffè, un bagno o una pausa? Swiss Road Info mostra cosa ti aspetta su ogni autostrada svizzera – uscita per uscita, in ordine di chilometro, nella tua direzione di marcia.
+
+Scegli un'autostrada e la direzione, e ottieni:
+• tutte le uscite e gli svincoli con il chilometro
+• aree di servizio e di sosta dal tuo lato della carreggiata
+• distributori con il logo del marchio, ristoranti e servizi (WC, docce, negozio, hotel)
+• colonnine di ricarica e parcheggi per camion
+• telefono e sito web, se disponibili
+
+MODALITÀ GUIDA
+Avvia la Modalità guida: l'app riconosce l'autostrada, il chilometro e la direzione e mostra le prossime uscite, aree di servizio e distributori davanti a te. Gli annunci vocali indicano l'autostrada, la prossima area di servizio e il traffico più avanti. Quando cambi autostrada, l'elenco ti segue. Si ferma con un tocco o chiudendo l'app.
+
+TRAFFICO
+Incidenti, code, chiusure e cantieri dell'Ufficio federale delle strade (USTRA/ASTRA), con la direzione. Una linea dello stato del traffico accanto all'elenco mostra dove si trovano gli eventi. Con le notifiche attive ricevi avvisi per l'autostrada scelta o quella che stai percorrendo.
+
+COPERTURA
+17 autostrade: A1 Ginevra – Losanna – Berna – Zurigo – San Gallo, A2 Basilea – Lucerna – Gottardo – Chiasso, A3, A4, A5, A6, A7, A8, A9, A12, A13, A14, A15, A16, A18, A20, A22 e A51.
+
+FUNZIONA OFFLINE
+Tutti i dati autostradali sono nell'app: l'elenco funziona anche senza segnale. Solo le notizie sul traffico richiedono una connessione.
+
+PENSATA PER CHI GUIDA
+• un tocco avvia la navigazione verso il luogo
+• condividi un'area di servizio o un'uscita
+• filtri: carburante, cibo, parcheggi, uscite, ricarica
+• nessun account, nessuna registrazione; la tua posizione resta sul telefono
+• acquisto unico per rimuovere la pubblicità
+• 18 lingue
+
+FONTI DEI DATI
+Dati autostradali © contributori OpenStreetMap (ODbL). Traffico – Fonte dei dati: Ufficio federale delle strade (USTRA), Piattaforma dei dati sul traffico / Federal Roads Office (FEDRO) Traffic Data Platform (TDP).
+
+FONTI UFFICIALI (link)
+• Traffico: Ufficio federale delle strade (USTRA/ASTRA) – https://www.astra.admin.ch – piattaforma dati: https://opentransportdata.swiss
+• Dati autostradali: OpenStreetMap – https://www.openstreetmap.org/copyright
+
+App indipendente, non collegata all'USTRA né ad alcun ente pubblico. Il contrassegno autostradale (vignetta) non è incluso. Rispetta sempre la segnaletica e il codice della strada; non usare il telefono mentre guidi.

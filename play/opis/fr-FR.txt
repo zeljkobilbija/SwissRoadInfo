@@ -1,0 +1,46 @@
+NASLOV:
+Swiss Road Info : autoroutes
+
+KRATAK OPIS:
+Sorties, aires de service et de repos, infos trafic sur les autoroutes suisses.
+
+PUN OPIS:
+⚠️ Application non officielle : Swiss Road Info est une application indépendante. Elle n'est publiée par aucune autorité, aucun exploitant routier ni aucun organisme public, et ne représente aucune entité publique.
+
+En route en Suisse et besoin de carburant, d'un café, de toilettes ou d'une pause ? Swiss Road Info montre ce qui vous attend sur chaque autoroute suisse – sortie par sortie, classé par kilomètre, dans votre sens de circulation.
+
+Choisissez une autoroute et votre sens, et vous obtenez :
+• toutes les sorties et jonctions avec leur kilomètre
+• les aires de service et de repos de votre côté de la chaussée
+• les stations avec le logo de l'enseigne, restaurants et services (WC, douches, boutique, hôtel)
+• les bornes de recharge et les places pour camions
+• téléphone et site web quand ils sont disponibles
+
+MODE CONDUITE
+Lancez le Mode conduite : l'application reconnaît l'autoroute, le kilomètre et votre sens, et affiche les prochaines sorties, aires et stations devant vous. Des annonces vocales indiquent l'autoroute, la prochaine aire et le trafic à venir. Quand vous changez d'autoroute, la liste suit. Arrêt d'un simple toucher ou en fermant l'application.
+
+INFOS TRAFIC
+Accidents, bouchons, fermetures et chantiers de l'Office fédéral des routes (OFROU/ASTRA), avec le sens de circulation. Une ligne d'état du trafic à côté de la liste montre où se trouvent les événements. Avec les notifications activées, vous êtes prévenu pour l'autoroute choisie ou celle où vous roulez.
+
+COUVERTURE
+17 autoroutes : A1 Genève – Lausanne – Berne – Zurich – Saint-Gall, A2 Bâle – Lucerne – Gothard – Chiasso, A3, A4, A5, A6, A7, A8, A9, A12, A13, A14, A15, A16, A18, A20, A22 et A51.
+
+FONCTIONNE HORS LIGNE
+Les données autoroutières sont intégrées à l'application : la liste fonctionne même sans réseau. Seules les infos trafic nécessitent une connexion.
+
+PENSÉE POUR LES CONDUCTEURS
+• un toucher lance l'itinéraire vers le lieu choisi
+• partagez une aire ou une sortie
+• filtres : carburant, repas, parkings, sorties, recharge
+• aucun compte, aucune inscription ; votre position reste sur le téléphone
+• achat unique pour supprimer la publicité
+• 18 langues
+
+SOURCES DES DONNÉES
+Données autoroutières © contributeurs OpenStreetMap (ODbL). Infos trafic – Source des données : Office fédéral des routes (OFROU), Plateforme de données de trafic / Federal Roads Office (FEDRO) Traffic Data Platform (TDP).
+
+SOURCES OFFICIELLES (liens)
+• Trafic : Office fédéral des routes (OFROU/ASTRA) – https://www.astra.admin.ch – plateforme de données : https://opentransportdata.swiss
+• Données autoroutières : OpenStreetMap – https://www.openstreetmap.org/copyright
+
+Application indépendante, sans lien avec l'OFROU ni aucun organisme public. La vignette autoroutière n'est pas incluse. Respectez toujours la signalisation et le code de la route ; n'utilisez pas le téléphone en conduisant.
